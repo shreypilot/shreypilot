@@ -1,18 +1,18 @@
 
 <h1 align="center">Hi 👋, I'm shreya kumari</h1>
-<h3 align="center">A CSE Sophomore who loves exploring new field and emporing other.A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreypilot&label=Profile%20views&color=0e75b6&style=flat" alt="shreypilot" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shreypilot" target="blank"><img src="https://img.shields.io/twitter/follow/shreypilot?logo=twitter&style=for-the-badge" alt="shreypilot" /></a> </p>
 
-- 🌱 I’m currently learning **DSA using c++ ,web development using MERN STACK**
+- 🌱 I’m currently learning **Namaste React by Akshay saini And Backend Development by Sanket Singh**
 
 - 💬 Ask me about **React js**
 
 - 📫 How to reach me **shreypilot28@gmail.com**
 
-- ⚡ Fun fact **I think i'm funny 💥**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
