@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm shreya kumari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreypilot&label=Profile%20views&color=0e75b6&style=flat" alt="shreypilot" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shreypilot" target="blank"><img src="https://img.shields.io/twitter/follow/shreypilot?logo=twitter&style=for-the-badge" alt="shreypilot" /></a> </p>
 
-- 🌱 I’m currently learning **Backend Development by Sanket Singh and DSA From Algocamp**
+- 🌱 I’m currently learning **Backend Development by Sanket Singh and Java(DSA & spring Boot) From Algocamp**
 - 🪄 I'm currently working as a  **Frontend Developer at GagaHealth**, where I bring my passion and expertise to create engaging web experiences.
 
 - 💬 Ask me about **MERN Stack**
