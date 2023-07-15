@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **MERN Stack**
 
-- 📫 How to reach me **shreyncebgp28@gmail.com**
+- 📫 How to reach me **shreyancebgp28@gmail.com**
 
 
 
