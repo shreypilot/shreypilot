@@ -6,7 +6,8 @@
 
 <p align="left"> <a href="https://twitter.com/shreypilot" target="blank"><img src="https://img.shields.io/twitter/follow/shreypilot?logo=twitter&style=for-the-badge" alt="shreypilot" /></a> </p>
 
-- 🌱 I’m currently learning **Namaste React by Akshay saini And Backend Development by Sanket Singh**
+- 🌱 I’m currently learning **Backend Development by Sanket Singh and DSA From Algocamp**
+- 🪄 I'm currently working as a  **Frontend Developer at GagaHealth**, where I bring my passion and expertise to create engaging web experiences.
 
 - 💬 Ask me about **React js**
 
