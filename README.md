@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Backend Development by Sanket Singh and DSA From Algocamp**
 - 🪄 I'm currently working as a  **Frontend Developer at GagaHealth**, where I bring my passion and expertise to create engaging web experiences.
 
-- 💬 Ask me about **React js**
+- 💬 Ask me about ** MERN STACK**
 
 - 📫 How to reach me **shreypilot28@gmail.com**
 
